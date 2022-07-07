@@ -1,4 +1,4 @@
-terraform {
+/*terraform {
   cloud {
     organization = "japcio-priv"
 
@@ -7,7 +7,7 @@ terraform {
     }
   }
 }
-
+*/
 terraform {
   required_providers {
     azurerm = {
